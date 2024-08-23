@@ -126,6 +126,13 @@ Despite these potential areas for improvement, the current implementation demons
 
 You can view the performance of the trained agent in the following video:
 
+
+
+https://github.com/user-attachments/assets/e0896711-e480-4c32-abee-aba7dd808a1d
+
+
+
+
 ## References
 This was a project started during the Udemy course:
 1. Artificial Intelligence A-Z 2024: Build 7 AI + LLM & ChatGPT 
